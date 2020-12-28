@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "prebuild": "rimraf dist",
     "build": "vue-cli-service build",
+    "postbuild": "node sync-cdn.js",
     "lint": "vue-cli-service lint",
     "test": "echo \" ci run success \""
   },

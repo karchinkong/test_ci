@@ -9,7 +9,7 @@ env:
   - SERVER_IP_ADDRESS=148.70.230.51
 addons:
 ssh_known_hosts:
-- 148.70.230.51
+  - 148.70.230.51
 script:
   - npm install
 after_script:
