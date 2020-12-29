@@ -3,13 +3,13 @@
  * @Author: KarChinKong
  * @Date: 2020-12-29 02:07:12
  * @LastEditors: KarChinKong
- * @LastEditTime: 2020-12-29 14:22:04
+ * @LastEditTime: 2020-12-29 14:33:31
 -->
 # test_travis_vue3
 
 ## Project setup
 ```
-npm install !!!!
+npm install !
 ```
 
 ### Compiles and hot-reloads for development
